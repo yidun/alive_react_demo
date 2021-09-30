@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.0",
-    "react-native-alive-view": "^1.0.3",
+    "@yidun/livedetect-plugin-rn": "^1.0.5",
     "react-native-modal": "^11.10.0"
   },
   "devDependencies": {
@@ -27,5 +27,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "localDependencies": {
+    "@yidun/livedetect-plugin-rn": "../livedetect-plugin-rn"
   }
 }
