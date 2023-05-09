@@ -10,9 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@yidun/livedetect-plugin-rn": "^1.0.8",
     "react": "17.0.1",
-    "react-native": "0.64.0",
-    "@yidun/livedetect-plugin-rn": "^1.0.5",
+    "react-native": "0.64.2",
     "react-native-modal": "^11.10.0"
   },
   "devDependencies": {
